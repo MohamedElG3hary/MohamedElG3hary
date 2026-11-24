@@ -58,17 +58,13 @@
 ## Connect With Me
 
 <p align="center">
-  (https://www.linkedin.com/in/mohamed-elgoharydev/)
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/mohamed-elgoharydev/">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=light" height="40" />
   </a>
   &nbsp;
- me6562688@gmail.com
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:me6562688@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_me-2674E8?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
-](https://www.linkedin.com/in/mohamed-elgoharydev/)
-](https://www.linkedin.com/in/mohamed-elgoharydev/)
