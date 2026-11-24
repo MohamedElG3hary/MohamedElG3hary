@@ -58,12 +58,12 @@
 ## Connect With Me
 
 <p align="center">
-  <!-- Replace YOUR_LINKEDIN_URL with your LinkedIn profile URL -->
+  (https://www.linkedin.com/in/mohamed-elgoharydev/)
   <a href="YOUR_LINKEDIN_URL">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=light" height="40" />
   </a>
   &nbsp;
-  <!-- Replace YOUR_EMAIL with your public email address -->
+ me6562688@gmail.com
   <a href="mailto:YOUR_EMAIL">
     <img src="https://img.shields.io/badge/Email-Contact_me-2674E8?style=flat&logo=gmail&logoColor=white" />
   </a>
