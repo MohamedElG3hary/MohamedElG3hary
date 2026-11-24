@@ -1,4 +1,4 @@
-<div align="center">
+[<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,4,12&height=180&section=header&text=Mohamed%20ElG3hary&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Computer%20Science%20Student%20%7C%20Backend%20Development&descAlignY=68&descSize=17" width="100%" />
 
@@ -70,3 +70,4 @@
 </p>
 
 ---
+](https://www.linkedin.com/in/mohamed-elgoharydev/)
