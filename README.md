@@ -43,6 +43,10 @@
   <a href="https://github.com/MohamedElG3hary/Task-Management">
     <img src="https://img.shields.io/badge/Task_Management-View_Repository-2674E8?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  &nbsp;
+  <a href="https://github.com/MohamedElG3hary/Weather-API">
+    <img src="https://img.shields.io/badge/Weather_API-View_Repository-2674E8?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
