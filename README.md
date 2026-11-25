@@ -28,7 +28,7 @@
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cpp,python,js,spring,git,github,idea,vscode,postman&theme=light" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,python,js,spring,git,github,idea,vscode,redis,postman&theme=light" />
 </p>
 
 ---
